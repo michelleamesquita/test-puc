@@ -1,2 +1,4 @@
-teste3
-fdhdhte
+## Olá mundo
+
+- Para iniciar o projeto:
+lei o arqivo `test.txt`
